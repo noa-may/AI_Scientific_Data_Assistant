@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#Added 17May2026
+.DS_Store
+.ipynb_checkpoints/
+
